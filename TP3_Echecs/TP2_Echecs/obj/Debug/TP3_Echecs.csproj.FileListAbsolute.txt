@@ -1,0 +1,59 @@
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe.config
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csprojResolveAssemblyReference.cache
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.IHM.FenetreDeJeu.resources
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.Properties.Resources.resources
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.GenerateResource.Cache
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.exe
+C:\Users\chierchg\Corsi\GL\Esercizi\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.pdb
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe.config
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.pdb
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csprojResolveAssemblyReference.cache
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.IHM.FenetreDeJeu.resources
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.Properties.Resources.resources
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.GenerateResource.cache
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.exe
+C:\Users\jordan\Downloads\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.pdb
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe.config
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.pdb
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csprojResolveAssemblyReference.cache
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.IHM.FenetreDeJeu.resources
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.Properties.Resources.resources
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.GenerateResource.cache
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.CoreCompileInputs.cache
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.exe
+U:\E4FI\Génie Logiciel\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.pdb
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe.config
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.pdb
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csprojResolveAssemblyReference.cache
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.IHM.FenetreDeJeu.resources
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.Properties.Resources.resources
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.GenerateResource.cache
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.CoreCompileInputs.cache
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.exe
+C:\Users\brackenj\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.pdb
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe.config
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.pdb
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.IHM.FenetreDeJeu.resources
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.Properties.Resources.resources
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.GenerateResource.cache
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.CoreCompileInputs.cache
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.exe
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.pdb
+C:\Users\jordan\Downloads\TP3_Echecs7\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csprojAssemblyReference.cache
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe.config
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.exe
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\bin\Debug\TP2_Echecs.pdb
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csprojAssemblyReference.cache
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.IHM.FenetreDeJeu.resources
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.Properties.Resources.resources
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.GenerateResource.cache
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP3_Echecs.csproj.CoreCompileInputs.cache
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.exe
+D:\Cours\C#\TP3_Echecs\TP2_Echecs\obj\Debug\TP2_Echecs.pdb
